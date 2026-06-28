@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pathlib
+logging
+re
+unicodedata
+tldextrac
